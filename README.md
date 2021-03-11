@@ -1,5 +1,5 @@
 # MedEasy
-##MedEasy is an online pharmacy management system that brings ease in the day to day tasks of a pharmacy.
+##### MedEasy is an online pharmacy management system that brings ease in the day to day tasks of a pharmacy.
 <br/><br/>
 This project is done under the supervision of -<br/>
 **S. M. Sadakatul Bari**<br/>
