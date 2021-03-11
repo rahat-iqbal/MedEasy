@@ -1,9 +1,9 @@
 # MedEasy
 an online pharmacy management system
-
-This project is done under the supervision of-
-S. M. Sadakatul Bari
-Assistant Professor & Head,
-Dept of CSE
-Bangladesh Army University of Science and Technology.
+<br/><br/>
+This project is done under the supervision of-<br/>
+**S. M. Sadakatul Bari**<br/>
+Assistant Professor & Head,<br/>
+Dept of CSE<br/>
+Bangladesh Army University of Science and Technology.<br/>
 
